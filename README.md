@@ -1,3 +1,4 @@
+![pythocat](https://github.com/user-attachments/assets/deaf8c7c-4121-40a0-8060-ed383f7295b5)
 Hello! 👋
 Welcome to my GitHub profile! I'm passionate about blending technology and education to create impactful digital learning experiences. With a background in School Digitization, I focus on Professional Learning with Digital Education Tools, developing engaging Lesson Ideas, and managing Mobile Device deployment for a seamless learning environment. I'm also diving deeper into Cloud Engineering and expanding my skills as I continue my journey in Learning to Code. 
 
