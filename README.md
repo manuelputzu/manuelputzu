@@ -1,6 +1,7 @@
-Hello! 👋
-Welcome to my GitHub profile! I'm passionate about blending technology and education to create impactful digital learning experiences. With a background in School Digitization, I focus on Professional Learning with Digital Education Tools, developing engaging Lesson Ideas, and managing Mobile Device deployment for a seamless learning environment. I'm also diving deeper into Cloud Engineering and expanding my skills as I continue my journey in Learning to Code. 
+Hello! 👋 Welcome to my GitHub profile!
 
-When I'm not working on tech projects, I enjoy drawing and making music—creative outlets that help me bring fresh ideas to my work.
+I'm passionate about Cloud Engineering and its role in shaping scalable, efficient, and innovative digital solutions. With a background in School Digitization, I’ve worked on integrating Digital Education Tools, Mobile Device Management, and developing engaging Lesson Ideas to enhance learning experiences. Now, I’m diving deeper into Cloud Technologies, DevOps, and Infrastructure as Code to expand my expertise in modern IT solutions.
 
-Feel free to explore my projects, and let’s connect if you share similar interests!
+When I’m not building in the cloud, I enjoy drawing and making music, creative outlets that inspire fresh ideas in my projects.
+
+Feel free to explore my work, and let’s connect if you’re passionate about cloud technology and digital innovation!
